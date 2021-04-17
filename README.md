@@ -1,5 +1,5 @@
 # ETH vaucher generator
-***Привет. Данный проект создан кодером OxideDevX(Pentester). Telegram: @pwntt .***
+***Привет. Данный проект создан кодером OxideDevX(Pentester). ***
 
 *Что это такое?*
 Генератор ETH чеков. 
